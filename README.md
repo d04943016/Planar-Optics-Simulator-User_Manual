@@ -42,7 +42,7 @@ pip install PyQt5 pyqtgraph qdarkstyle
 
 ### Command Line-src/Execution
 
-[More details in User_Manual_Cmd](https://github.com/d04943016/Planar-Optics-Simulator/tree/main/User_Manual_Cmd)
+[More details in User_Manual_Cmd](https://github.com/d04943016/Planar-Optics-Simulator-User_Manual/tree/main/User_Manual_Cmd)
 
 #### Example
 
@@ -220,7 +220,7 @@ pip install PyQt5 pyqtgraph qdarkstyle
 
 ### GUI-src/GUI_PyQt5/Panel.py 
 
-[More details in User_Manual_GUI](https://github.com/d04943016/Planar-Optics-Simulator/tree/main/User_Manual_GUI)
+[More details in User_Manual_GUI](https://github.com/d04943016/Planar-Optics-Simulator-User_Manual/tree/main/User_Manual_GUI)
 
 The execution file is in ./src/GUI_PyQt5/Panel.py.
 
